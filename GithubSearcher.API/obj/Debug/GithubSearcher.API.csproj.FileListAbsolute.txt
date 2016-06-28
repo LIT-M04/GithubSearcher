@@ -1,0 +1,7 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\bin\Debug\GithubSearcher.API.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\bin\Debug\GithubSearcher.API.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\bin\Debug\Newtonsoft.Json.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\bin\Debug\Newtonsoft.Json.xml
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\obj\Debug\GithubSearcher.API.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\obj\Debug\GithubSearcher.API.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPISearcher\GithubSearcher.API\obj\Debug\GithubSearcher.API.pdb
